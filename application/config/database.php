@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'teachtalk',
+	'hostname' => 'us-cdbr-east-03.cleardb.com',
+	'username' => 'bc539caab84253',
+	'password' => 'fbbff7c5',
+	'database' => 'heroku_40bd5880cf97787',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
