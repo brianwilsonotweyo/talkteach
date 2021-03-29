@@ -13,13 +13,13 @@
         <title>TeachTalk | Login</title>
 <!-- Bootstrap Core CSS -->
 <link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-<link href="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/bootstrap-extension/css/bootstrap-extension.css" rel="stylesheet">
+<link href="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/bootstrap-extension/css/bootstrap-extension.css" rel="stylesheet">
 <!-- animation CSS -->
-<link href="http://teachtalk.herokuapp.com/optimum/css/animate.css" rel="stylesheet">
+<link href="https://teachtalk.herokuapp.com/optimum/css/animate.css" rel="stylesheet">
 <!-- Custom CSS -->
-<link href="http://teachtalk.herokuapp.com/optimum/css/style.css" rel="stylesheet">
+<link href="https://teachtalk.herokuapp.com/optimum/css/style.css" rel="stylesheet">
 <!-- color CSS -->
-<link href="http://teachtalk.herokuapp.com/optimum/css/colors/megna.css" id="theme"  rel="stylesheet">
+<link href="https://teachtalk.herokuapp.com/optimum/css/colors/megna.css" id="theme"  rel="stylesheet">
 <link href="<?php echo base_url();?>optimum/plugins/bower_components/toast-master/css/jquery.toast.css" rel="stylesheet">
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -101,25 +101,25 @@ Login
 
 
 <!-- jQuery -->
-<script src="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/jquery/dist/jquery.min.js"></script>
 <!-- Bootstrap Core JavaScript -->
-<script src="http://teachtalk.herokuapp.com/optimum/bootstrap/dist/js/tether.min.js"></script>
-<script src="http://teachtalk.herokuapp.com/optimum/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/bootstrap-extension/js/bootstrap-extension.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/bootstrap/dist/js/tether.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/bootstrap-extension/js/bootstrap-extension.min.js"></script>
 <!-- Menu Plugin JavaScript -->
-<script src="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
 
 
 <!--slimscroll JavaScript -->
-<script src="http://teachtalk.herokuapp.com/optimum/js/jquery.slimscroll.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/js/jquery.slimscroll.js"></script>
 <!--Wave Effects -->
-<script src="http://teachtalk.herokuapp.com/optimum/js/waves.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/js/waves.js"></script>
 <!-- Custom Theme JavaScript -->
-<script src="http://teachtalk.herokuapp.com/optimum/js/custom.min.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/js/custom.min.js"></script>
 <!--Style Switcher -->
-<script src="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
 
-<script src="http://teachtalk.herokuapp.com/optimum/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
+<script src="https://teachtalk.herokuapp.com/optimum/plugins/bower_components/toast-master/js/jquery.toast.js"></script>
 
 
 
