@@ -16,4 +16,12 @@ class Auth extends CI_Controller
     {
         $this->load->view('back/account/login');
     }
+
+    function validate_login()
+    {
+        $email = html_escape($this->input->post('email'));
+        $password = html_escape($this->input->post('password'));
+
+        $this->login_model->loginFunctionForAllUsers($email, $password);
+    }
 }
